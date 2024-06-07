@@ -1,9 +1,5 @@
 ﻿# Money-Tracking-Website-for-Bharat-Intern
 
-This Project is Split into 2 Parts:
-
-#Front-End
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -74,9 +70,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-
-#Back End
-
-The backend consists of NodeJs, ExpressJs and MongoDB, Install the required packages <will update that soon> and then use the command to start the backend process.
-###npm start
